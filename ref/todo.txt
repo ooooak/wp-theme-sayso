@@ -1,0 +1,12 @@
+fix header 
+	make short 
+	simple clean
+	use same fonts remove extra fonts
+
+
+start from header
+	add navigation
+	add slider
+pagination
+add more posts
+footer
