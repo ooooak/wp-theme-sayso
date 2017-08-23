@@ -1,3 +1,3 @@
 
-![Alt text](/screenshots/home.jpg?raw=true "Optional Title")
+![Alt text](/screenshots/home.png?raw=true "Optional Title")
 
